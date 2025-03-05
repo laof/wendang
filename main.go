@@ -162,8 +162,6 @@ func coverTime(session string) LRC {
 			obj.Time = timeline
 		}
 
-		fmt.Println("==============")
-		fmt.Println(info[2])
 		obj.Subtitle = strings.TrimLeft(info[2], "\n\r")
 		obj.Translation = strings.TrimLeft(info[3], "\n\r")
 		return obj
