@@ -3,7 +3,7 @@
 srt convert LRC
 
 ```
-$ srt2lrc filename [y]
+$ srt2lrc filename
 ```
 ## translation (slow)
 y enable English translation Chinese, Only support English to Chinese
@@ -32,4 +32,4 @@ yes please
 
 ## download
 
-[srt2lrc.exe (6M)](https://raw.githubusercontent.com/laof/srt2lrc/main/srt2lrc.exe)"# wendang" 
+[srt2lrc.exe (6M)](https://raw.githubusercontent.com/laof/srt2lrc/main/srt2lrc.exe)
